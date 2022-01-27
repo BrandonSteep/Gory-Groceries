@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58388cd2f7bc7ed45b25ad29d6ae09a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orientation: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - physicMaterial: {fileID: 13400000, guid: 0a9448bb54f3cdb4e9cdf0dd43a0e6c3, type: 2}
+  - dustFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
